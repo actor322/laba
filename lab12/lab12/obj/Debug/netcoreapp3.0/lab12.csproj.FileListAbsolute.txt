@@ -1,0 +1,11 @@
+D:\Univer\2 курс\ООП\lab12\lab12\bin\Debug\netcoreapp3.0\lab12.exe
+D:\Univer\2 курс\ООП\lab12\lab12\bin\Debug\netcoreapp3.0\lab12.deps.json
+D:\Univer\2 курс\ООП\lab12\lab12\bin\Debug\netcoreapp3.0\lab12.runtimeconfig.json
+D:\Univer\2 курс\ООП\lab12\lab12\bin\Debug\netcoreapp3.0\lab12.runtimeconfig.dev.json
+D:\Univer\2 курс\ООП\lab12\lab12\bin\Debug\netcoreapp3.0\lab12.dll
+D:\Univer\2 курс\ООП\lab12\lab12\bin\Debug\netcoreapp3.0\lab12.pdb
+D:\Univer\2 курс\ООП\lab12\lab12\obj\Debug\netcoreapp3.0\lab12.csprojAssemblyReference.cache
+D:\Univer\2 курс\ООП\lab12\lab12\obj\Debug\netcoreapp3.0\lab12.AssemblyInfoInputs.cache
+D:\Univer\2 курс\ООП\lab12\lab12\obj\Debug\netcoreapp3.0\lab12.AssemblyInfo.cs
+D:\Univer\2 курс\ООП\lab12\lab12\obj\Debug\netcoreapp3.0\lab12.dll
+D:\Univer\2 курс\ООП\lab12\lab12\obj\Debug\netcoreapp3.0\lab12.pdb

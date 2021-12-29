@@ -1,0 +1,40 @@
+C:\Users\User\Documents\GitHub\oop\14lab\14lab\bin\Debug\14lab.exe.config
+C:\Users\User\Documents\GitHub\oop\14lab\14lab\bin\Debug\14lab.exe
+C:\Users\User\Documents\GitHub\oop\14lab\14lab\bin\Debug\14lab.pdb
+C:\Users\User\Documents\GitHub\oop\14lab\14lab\obj\Debug\14lab.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\oop\14lab\14lab\obj\Debug\14lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\oop\14lab\14lab\obj\Debug\14lab.exe
+C:\Users\User\Documents\GitHub\oop\14lab\14lab\obj\Debug\14lab.pdb
+C:\Users\User\Desktop\ООП\14lab\14lab\bin\Debug\14lab.exe.config
+C:\Users\User\Desktop\ООП\14lab\14lab\bin\Debug\14lab.exe
+C:\Users\User\Desktop\ООП\14lab\14lab\bin\Debug\14lab.pdb
+C:\Users\User\Desktop\ООП\14lab\14lab\obj\Debug\14lab.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ООП\14lab\14lab\obj\Debug\14lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ООП\14lab\14lab\obj\Debug\14lab.exe
+C:\Users\User\Desktop\ООП\14lab\14lab\obj\Debug\14lab.pdb
+E:\14lab\14lab\bin\Debug\14lab.exe.config
+E:\14lab\14lab\bin\Debug\14lab.exe
+E:\14lab\14lab\bin\Debug\14lab.pdb
+E:\14lab\14lab\obj\Debug\14lab.csprojAssemblyReference.cache
+E:\14lab\14lab\obj\Debug\14lab.exe
+E:\14lab\14lab\obj\Debug\14lab.pdb
+D:\Univer\2 курс\ООП\14lab\14lab\bin\Debug\14lab.exe.config
+D:\Univer\2 курс\ООП\14lab\14lab\bin\Debug\14lab.exe
+D:\Univer\2 курс\ООП\14lab\14lab\bin\Debug\14lab.pdb
+D:\Univer\2 курс\ООП\14lab\14lab\obj\Debug\14lab.csprojAssemblyReference.cache
+D:\Univer\2 курс\ООП\14lab\14lab\obj\Debug\14lab.exe
+D:\Univer\2 курс\ООП\14lab\14lab\obj\Debug\14lab.pdb
+C:\Users\Lenovo\Desktop\ООП\14lab\14lab\obj\Debug\14lab.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ООП\14lab\14lab\obj\Debug\14lab.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ООП\14lab\14lab\obj\Debug\14lab.exe
+C:\Users\Lenovo\Desktop\ООП\14lab\14lab\obj\Debug\14lab.pdb
+C:\Users\Lenovo\Desktop\ООП\14lab\14lab\bin\Debug\14lab.exe.config
+C:\Users\Lenovo\Desktop\ООП\14lab\14lab\bin\Debug\14lab.exe
+C:\Users\Lenovo\Desktop\ООП\14lab\14lab\bin\Debug\14lab.pdb
+D:\OOP\14lab\14lab\bin\Debug\14lab.exe.config
+D:\OOP\14lab\14lab\bin\Debug\14lab.exe
+D:\OOP\14lab\14lab\bin\Debug\14lab.pdb
+D:\OOP\14lab\14lab\obj\Debug\14lab.csproj.AssemblyReference.cache
+D:\OOP\14lab\14lab\obj\Debug\14lab.csproj.CoreCompileInputs.cache
+D:\OOP\14lab\14lab\obj\Debug\14lab.exe
+D:\OOP\14lab\14lab\obj\Debug\14lab.pdb

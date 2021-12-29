@@ -1,0 +1,28 @@
+D:\Univer\2 курс\ООП\lab5\lab5\bin\Debug\lab5.exe.config
+D:\Univer\2 курс\ООП\lab5\lab5\bin\Debug\lab5.exe
+D:\Univer\2 курс\ООП\lab5\lab5\bin\Debug\lab5.pdb
+D:\Univer\2 курс\ООП\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+D:\Univer\2 курс\ООП\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\Univer\2 курс\ООП\lab5\lab5\obj\Debug\lab5.exe
+D:\Univer\2 курс\ООП\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\Lenovo\Desktop\ООП\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\Lenovo\Desktop\ООП\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\Lenovo\Desktop\ООП\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\Lenovo\Desktop\ООП\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ООП\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ООП\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\Lenovo\Desktop\ООП\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\1\Desktop\2\3 сем\ООП\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\1\Desktop\2\3 сем\ООП\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\1\Desktop\2\3 сем\ООП\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\1\Desktop\2\3 сем\ООП\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\1\Desktop\2\3 сем\ООП\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\2\3 сем\ООП\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\1\Desktop\2\3 сем\ООП\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\lab5\lab5\obj\Debug\lab5.pdb

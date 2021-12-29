@@ -1,0 +1,21 @@
+D:\university\2 curse\ооп\4\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+D:\university\2 curse\ооп\4\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\university\2 curse\ооп\4\lab4\lab4\bin\Debug\lab4.exe.config
+D:\university\2 curse\ооп\4\lab4\lab4\bin\Debug\lab4.exe
+D:\university\2 curse\ооп\4\lab4\lab4\bin\Debug\lab4.pdb
+D:\university\2 curse\ооп\4\lab4\lab4\obj\Debug\lab4.exe
+D:\university\2 curse\ооп\4\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\1\Desktop\2\3 сем\ООП\9 варик\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\1\Desktop\2\3 сем\ООП\9 варик\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\1\Desktop\2\3 сем\ООП\9 варик\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\1\Desktop\2\3 сем\ООП\9 варик\lab4\lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\1\Desktop\2\3 сем\ООП\9 варик\lab4\lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\2\3 сем\ООП\9 варик\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\1\Desktop\2\3 сем\ООП\9 варик\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\9 варик\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\9 варик\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\9 варик\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\9 варик\lab4\lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\9 варик\lab4\lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\9 варик\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\rosti\Desktop\бгту\БГТУ 2 курс\3 сем\2\3 сем\ООП\9 варик\lab4\lab4\obj\Debug\lab4.pdb

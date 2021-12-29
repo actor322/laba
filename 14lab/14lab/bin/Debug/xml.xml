@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Cartoon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <FirstName>John</FirstName>
+    <LastName>Cena</LastName>
+    <Trophies>0</Trophies>
+  </Author>
+  <ContainsAds>true</ContainsAds>
+  <Duration>10</Duration>
+</Cartoon>

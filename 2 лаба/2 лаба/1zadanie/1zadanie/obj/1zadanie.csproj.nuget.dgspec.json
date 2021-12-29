@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rosti\\Desktop\\бгту\\БГТУ 2 курс\\3 сем\\2\\3 сем\\ООП\\2 лаба\\2 лаба\\1zadanie\\1zadanie\\1zadanie.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rosti\\Desktop\\бгту\\БГТУ 2 курс\\3 сем\\2\\3 сем\\ООП\\2 лаба\\2 лаба\\1zadanie\\1zadanie\\1zadanie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rosti\\Desktop\\бгту\\БГТУ 2 курс\\3 сем\\2\\3 сем\\ООП\\2 лаба\\2 лаба\\1zadanie\\1zadanie\\1zadanie.csproj",
+        "projectName": "1zadanie",
+        "projectPath": "C:\\Users\\rosti\\Desktop\\бгту\\БГТУ 2 курс\\3 сем\\2\\3 сем\\ООП\\2 лаба\\2 лаба\\1zadanie\\1zadanie\\1zadanie.csproj",
+        "packagesPath": "C:\\Users\\rosti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rosti\\Desktop\\бгту\\БГТУ 2 курс\\3 сем\\2\\3 сем\\ООП\\2 лаба\\2 лаба\\1zadanie\\1zadanie\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rosti\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+D:\Univer\2 курс\ООП\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.exe
+D:\Univer\2 курс\ООП\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.deps.json
+D:\Univer\2 курс\ООП\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.runtimeconfig.json
+D:\Univer\2 курс\ООП\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.runtimeconfig.dev.json
+D:\Univer\2 курс\ООП\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.dll
+D:\Univer\2 курс\ООП\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.pdb
+D:\Univer\2 курс\ООП\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.csprojAssemblyReference.cache
+D:\Univer\2 курс\ООП\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.AssemblyInfoInputs.cache
+D:\Univer\2 курс\ООП\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.AssemblyInfo.cs
+D:\Univer\2 курс\ООП\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.dll
+D:\Univer\2 курс\ООП\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.pdb
+D:\OOP\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.exe
+D:\OOP\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.deps.json
+D:\OOP\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.runtimeconfig.json
+D:\OOP\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.runtimeconfig.dev.json
+D:\OOP\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.dll
+D:\OOP\Lab10\Lab10\bin\Debug\netcoreapp3.0\Lab10.pdb
+D:\OOP\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.csproj.AssemblyReference.cache
+D:\OOP\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.AssemblyInfoInputs.cache
+D:\OOP\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.AssemblyInfo.cs
+D:\OOP\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.csproj.CoreCompileInputs.cache
+D:\OOP\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.dll
+D:\OOP\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.pdb
+D:\OOP\Lab10\Lab10\obj\Debug\netcoreapp3.0\Lab10.genruntimeconfig.cache

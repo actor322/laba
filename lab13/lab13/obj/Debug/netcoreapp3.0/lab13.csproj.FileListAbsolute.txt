@@ -1,0 +1,37 @@
+D:\Univer\2 курс\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.exe
+D:\Univer\2 курс\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.deps.json
+D:\Univer\2 курс\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.runtimeconfig.json
+D:\Univer\2 курс\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.runtimeconfig.dev.json
+D:\Univer\2 курс\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.dll
+D:\Univer\2 курс\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.pdb
+D:\Univer\2 курс\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.csprojAssemblyReference.cache
+D:\Univer\2 курс\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.AssemblyInfoInputs.cache
+D:\Univer\2 курс\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.AssemblyInfo.cs
+D:\Univer\2 курс\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.dll
+D:\Univer\2 курс\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.pdb
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.exe
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.deps.json
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.runtimeconfig.json
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.runtimeconfig.dev.json
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.dll
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.pdb
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.csprojAssemblyReference.cache
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.AssemblyInfoInputs.cache
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.AssemblyInfo.cs
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.csproj.CoreCompileInputs.cache
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.dll
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.pdb
+D:\work1\3 сем\2\3 сем\ООП\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.genruntimeconfig.cache
+D:\OOP\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.exe
+D:\OOP\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.deps.json
+D:\OOP\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.runtimeconfig.json
+D:\OOP\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.runtimeconfig.dev.json
+D:\OOP\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.dll
+D:\OOP\lab13\lab13\bin\Debug\netcoreapp3.0\lab13.pdb
+D:\OOP\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.csproj.AssemblyReference.cache
+D:\OOP\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.AssemblyInfoInputs.cache
+D:\OOP\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.AssemblyInfo.cs
+D:\OOP\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.csproj.CoreCompileInputs.cache
+D:\OOP\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.dll
+D:\OOP\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.pdb
+D:\OOP\lab13\lab13\obj\Debug\netcoreapp3.0\lab13.genruntimeconfig.cache
